@@ -1,0 +1,3 @@
+[submodule "mgo"]
+	path = mgo
+	url = https://github.com/go-mgo/mgo.git
